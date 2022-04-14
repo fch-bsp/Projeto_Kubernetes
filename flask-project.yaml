@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
         - name: jbl
-          image: nandocloud/jbl-kub
+          image: nandocloud/jbl-kub:1
