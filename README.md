@@ -2,7 +2,7 @@
  
  ## Candidatos a essa Eleição de 2022: __**Gato** 🐱__ e __**Cachorro**:🐶__ 
  
-### O projeto usamos 5 Pods com estruturas Deployment-Service e um namespace "vote" com as técnologias:
+### O projeto usamos 5 Pods com estruturas Deployment-Service dentro deum namespace "vote" com as técnologias:
 
 #### - Pod-Python
 #### - Pod-Node.js
