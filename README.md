@@ -1,26 +1,25 @@
-# Catálogo Caixa de som 🔊 🔉
+# Projeto Aplicação de Votação com __K8s__: 
  
- ## Projeto criado em  __**HTML**__ e __**CSS**__ 
+ ## Candidatos a essa Eleição de 2022: __**Gato** 🐱__ e __**Cachorro**:🐶__ 
  
- Para quem estiver interessado tenho esses produtos para venda só chamar, segue a tabela de preços:
+### O projeto usamos 5 Pods com estruturas Deployment-Service e um namespace "vote" com as técnologias:
+
+#### - Pod-Python
+#### - Pod-Node.js
+#### - Pod-Redis
+#### - Pod-PostGreSQL
+#### - Pod-.NET
  ---
  
- ## Tabela
  
- ### Maiores informações: [`Clique Aqui`](https://fch-bsp.github.io/catalogo-caixa-de-som/)
- 
- Marca | Modeo | Cor | Valor
- :---: |:---: | :---: | :--:
- JBL | CHARGE3 | PRETA | 199,99 
- JBL | CHARGE3 | CAMUFLADA | 199,99 
- JBL | CHARGE3 | VERMELHA | 199,99 
- JBL | GO3 | PRETA | 159,99 
- JBL | GO3 | AZUL-C | 159,99
- JBL | GO3 | AZUL-E | 159,99
- JBL | GO3 | CAMUFLADA | 159,99
- JBL | XTREME-MINI | PRETA | 259,99
- JBL | XTREME-GRANDE | PRETA | 359,99
- JBL | XTREME-GRANDE | CAMUFLADA | 359,99
- JBL | CLIP4 | PRETA | 129,99
- JBL | CLIP4 | ALBATROZ | 129,99
- JBL | CLIP4 | AZUL | 129,99
+
+![Untitled (3)](https://user-images.githubusercontent.com/102867453/164033071-79377945-2573-4adf-8c81-02afab534fd7.jpg)
+
+##### Tela de Votação 
+
+![votacao](https://user-images.githubusercontent.com/102867453/164033886-2af1c30d-4ab7-4288-818e-fbfce72a745d.png)
+
+
+##### Tela do Resultado da Votação
+
+![result](https://user-images.githubusercontent.com/102867453/164033981-453d5ecf-be25-483b-8fb3-c21f554af542.png)
