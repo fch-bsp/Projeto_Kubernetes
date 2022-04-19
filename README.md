@@ -15,10 +15,12 @@
 
 ![Untitled (3)](https://user-images.githubusercontent.com/102867453/164033071-79377945-2573-4adf-8c81-02afab534fd7.jpg)
 
+---
 ##### Tela de Votação 
 
 ![votacao](https://user-images.githubusercontent.com/102867453/164033886-2af1c30d-4ab7-4288-818e-fbfce72a745d.png)
 
+---
 
 ##### Tela do Resultado da Votação
 
