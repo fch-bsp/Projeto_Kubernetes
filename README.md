@@ -1,4 +1,4 @@
-# Projeto Aplicação de Votação com __K8s__: 
+# Projeto Aplicação de Votação com __**K8s**__: 
  
  ## Candidatos a essa Eleição de 2022: __**Gato** 🐱__ e __**Cachorro**:🐶__ 
  
