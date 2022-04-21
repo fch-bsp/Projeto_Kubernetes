@@ -1,4 +1,4 @@
-# Projeto Aplicação de Votação com __**Docker**__ e __**K8s**__: ☸🐳☸
+# Projeto Aplicação de Votação com __**Docker**__ e __**K8s**__: ☸🐳
  
  ## Candidatos a essa Eleição de 2022: __**Gato** 🐱__ e __**Cachorro**:🐶__ 
  
