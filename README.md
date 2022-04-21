@@ -26,8 +26,10 @@
 
 ![result](https://user-images.githubusercontent.com/102867453/164033981-453d5ecf-be25-483b-8fb3-c21f554af542.png)
 
+---
 
-### Comandos usados para criação do Projeto: 
+### Comandos usados para criação do Projeto: 👨🏻‍💻👨🏻‍💻
+
 
 ~~~yaml
 1 kubectl create -f namespaces/vote.yaml  --save-config --record  
